@@ -1,0 +1,4329 @@
+[
+    {
+        "market": "DayAhead",
+        "marketDisplayName": "Day-ahead",
+        "areas": [
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "1999-05-31",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "1999-05-31",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "1999-05-31",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE",
+                "name": "Sweden",
+                "validFrom": "1999-05-31",
+                "validTo": "2011-10-31",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE",
+                "name": "Sweden",
+                "validFrom": "2011-10-31",
+                "validTo": "2011-12-08",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "1999-05-31",
+                "validTo": "1999-07-01",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "1999-07-01",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "1999-08-16",
+                "validTo": "1999-08-22",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "1999-09-20",
+                "validTo": "1999-10-03",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "1999-12-13",
+                "validTo": "1999-12-19",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2000-10-02",
+                "validTo": "2000-12-31",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2001-03-12",
+                "validTo": "2001-06-10",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2002-12-16",
+                "validTo": "2003-06-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2003-12-15",
+                "validTo": "2004-05-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2006-11-20",
+                "validTo": "2008-11-16",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2009-04-13",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "1999-05-31",
+                "validTo": "2000-09-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2000-09-29",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2002-12-16",
+                "validTo": "2003-06-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2010-01-11",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "KT",
+                "name": "Kontek Germany",
+                "validFrom": "2005-10-03",
+                "validTo": "2008-09-29",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "KT",
+                "name": "Kontek Germany",
+                "validFrom": "2008-10-15",
+                "validTo": "2009-11-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2010-03-15",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2007-01-06",
+                "validTo": "2007-01-20",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2007-01-22",
+                "validTo": "2007-02-03",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2007-02-06",
+                "validTo": "2008-08-25",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2008-09-08",
+                "validTo": "2008-10-13",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2008-10-20",
+                "validTo": "2010-04-01",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2010-04-01",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2011-11-01",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2011-11-01",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2011-11-01",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2011-11-01",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-10-29",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "ELE",
+                "name": "Estonia Latvia Exchange",
+                "validFrom": "2010-04-01",
+                "validTo": "2012-06-18",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELE",
+                "name": "Estonia Latvia Exchange",
+                "validFrom": "2012-06-18",
+                "validTo": "2013-06-02",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2012-06-18",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2013-06-03",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FRE",
+                "name": "Finland-Russia Exchange Area",
+                "validFrom": "2015-06-01",
+                "validTo": "2020-06-03",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FRE",
+                "name": "Finland-Russia Exchange Area",
+                "validFrom": "2020-06-03",
+                "validTo": "2022-03-16",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2019-07-03",
+                "validTo": "2021-06-18",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2021-06-18",
+                "validTo": "2022-06-08",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2022-06-08",
+                "validTo": "2022-08-25",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2022-08-25",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2019-01-31",
+                "validTo": "2019-07-03",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2019-07-03",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2014-02-05",
+                "validTo": "2019-07-03",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2019-07-03",
+                "validTo": "2020-12-31",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2020-12-31",
+                "validTo": "2022-08-25",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2022-08-25",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2006-02-10",
+                "validTo": "2006-05-04",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2006-05-06",
+                "validTo": "2019-07-03",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2019-07-03",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-05-12",
+                "validTo": "2008-05-30",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-06-01",
+                "validTo": "2008-06-19",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-06-21",
+                "validTo": "2008-10-21",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-10-23",
+                "validTo": "2008-10-25",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-10-27",
+                "validTo": "2008-10-31",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2008-11-04",
+                "validTo": "2008-12-28",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-01-01",
+                "validTo": "2009-08-17",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-08-19",
+                "validTo": "2009-09-20",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-09-22",
+                "validTo": "2009-10-24",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-10-28",
+                "validTo": "2009-11-18",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-11-20",
+                "validTo": "2009-11-28",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-11-30",
+                "validTo": "2009-12-15",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2009-12-17",
+                "validTo": "2010-01-16",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-01-19",
+                "validTo": "2010-01-22",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-01-24",
+                "validTo": "2010-03-03",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-03-05",
+                "validTo": "2010-03-18",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-03-20",
+                "validTo": "2010-03-22",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-03-24",
+                "validTo": "2010-04-04",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-04-06",
+                "validTo": "2010-08-13",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-08-15",
+                "validTo": "2010-10-05",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-10-07",
+                "validTo": "2010-11-10",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-11-12",
+                "validTo": "2010-12-01",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2010-12-03",
+                "validTo": "2019-07-03",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2019-07-03",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2006-02-10",
+                "validTo": "2006-05-04",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2006-05-06",
+                "validTo": "2021-02-10",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2021-02-10",
+                "validTo": "2021-08-27",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2021-08-27",
+                "validTo": "2021-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2021-08-30",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "TEL",
+                "name": "Romania Delivery Area",
+                "validFrom": "2024-11-20",
+                "validTo": null,
+                "region": "Romania",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2004-03-15",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SEA",
+                "name": "SEA",
+                "validFrom": "2004-03-15",
+                "validTo": "2011-10-31",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-02-10",
+                "validTo": "2006-02-26",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-02-28",
+                "validTo": "2006-03-15",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-03-17",
+                "validTo": "2006-04-01",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-04-03",
+                "validTo": "2006-05-17",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-05-19",
+                "validTo": "2006-05-24",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-05-26",
+                "validTo": "2006-07-11",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-07-13",
+                "validTo": "2006-07-27",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-07-29",
+                "validTo": "2006-11-20",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2006-11-22",
+                "validTo": "2007-10-27",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2007-10-29",
+                "validTo": "2008-05-30",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2008-06-01",
+                "validTo": "2008-06-19",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2008-06-21",
+                "validTo": "2008-10-21",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2008-10-23",
+                "validTo": "2008-10-25",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2008-10-27",
+                "validTo": "2008-10-31",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2008-11-04",
+                "validTo": "2008-12-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2009-01-01",
+                "validTo": "2009-10-24",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2009-10-26",
+                "validTo": "2010-03-03",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-03-05",
+                "validTo": "2010-03-18",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-03-20",
+                "validTo": "2010-03-22",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-03-24",
+                "validTo": "2010-04-04",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-04-06",
+                "validTo": "2010-08-13",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-08-15",
+                "validTo": "2010-10-05",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-10-07",
+                "validTo": "2010-11-10",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-11-12",
+                "validTo": "2010-12-01",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "validFrom": "2010-12-03",
+                "validTo": "2011-12-08",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELI",
+                "name": "Estonia-Latvian Import",
+                "validFrom": "2010-04-01",
+                "validTo": "2012-06-17",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LKAL",
+                "name": "Lithuania-Kaliningrad",
+                "validFrom": "2012-06-18",
+                "validTo": "2022-03-16",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LTLV",
+                "name": "Lithuanian - Latvian border area",
+                "validFrom": "2012-06-18",
+                "validTo": "2013-06-02",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GB2",
+                "name": "Great Britain APX Area",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31",
+                "region": "UK",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2015-01-09",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PLA",
+                "name": "Poland Internal",
+                "validFrom": "2015-11-25",
+                "validTo": "2021-06-17",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GB1A",
+                "name": "GB1A-FR-AREA",
+                "validFrom": "2019-10-02",
+                "validTo": "2020-06-25",
+                "region": "UK",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2021-06-18",
+                "validTo": "2022-06-08",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DEA2",
+                "name": "Germany-50Hz virtual area",
+                "validFrom": "2021-06-18",
+                "validTo": "2022-06-08",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2021-06-18",
+                "validTo": "2022-06-08",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PLC",
+                "name": "PLC Poland optimization area",
+                "validFrom": "2021-06-18",
+                "validTo": "2022-06-08",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2021-06-18",
+                "validTo": "2021-08-27",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2021-08-30",
+                "validTo": "2022-06-08",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2021-11-10",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1_CO",
+                "name": "COBRA (DK1-NL) in DK1",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1_DE",
+                "name": "DK1 to DE",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1_KS",
+                "name": "Konti-Skan (SE3-DKW) in DK1",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1_SB",
+                "name": "Storebelt (DKW-DKE) in DK1",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1_SK",
+                "name": "Skagerrak (NO2-DKW) in DK1",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2_KO",
+                "name": "Kontek in DK2 (DKE-DE)",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2_SB",
+                "name": "Storebelt (DKW-DKE) in DK2",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI_EL",
+                "name": "Est-Link in FI",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI_FS",
+                "name": "Fenno-Skan (FI-SE3) in FI",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2_ND",
+                "name": "NorNed (NO-NL) in NO2",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2_NK",
+                "name": "NordLink (NO-DE) in NO2",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2_SK",
+                "name": "Skagerrak (NO2-DKW) in NO2",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3_FS",
+                "name": "Fenno-Skan (FI-SE3) in SE3",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3_KS",
+                "name": "Konti-Skan (SE3-DKW) in SE3",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3_SWL",
+                "name": "Sydv\u00e4stl\u00e4nken (SE3-SE4)",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4_BC",
+                "name": "Baltic Cable SE4",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4_NB",
+                "name": "Nord-Balt SE4",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4_SP",
+                "name": "SVE-POL in SE4",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4_SWL",
+                "name": "Sydv\u00e4stl\u00e4nken (SE3-SE4)",
+                "validFrom": "2024-10-30",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            }
+        ],
+        "currencies": [
+            {
+                "code": "DKK",
+                "validFrom": "1999-07-01",
+                "validTo": null
+            },
+            {
+                "code": "EUR",
+                "validFrom": "1999-01-01",
+                "validTo": null
+            },
+            {
+                "code": "FIM",
+                "validFrom": "1998-06-01",
+                "validTo": "2002-02-24"
+            },
+            {
+                "code": "GBP",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31"
+            },
+            {
+                "code": "NOK",
+                "validFrom": "1997-12-29",
+                "validTo": null
+            },
+            {
+                "code": "PLN",
+                "validFrom": "2024-08-15",
+                "validTo": null
+            },
+            {
+                "code": "RON",
+                "validFrom": "2024-11-20",
+                "validTo": null
+            },
+            {
+                "code": "SEK",
+                "validFrom": "1997-12-29",
+                "validTo": null
+            }
+        ],
+        "validFrom": "1999-05-31T00:00:00"
+    },
+    {
+        "market": "GbHalfHour_DayAhead",
+        "marketDisplayName": "GB half hour",
+        "areas": [
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2017-08-16",
+                "validTo": "2017-09-02",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2017-09-04",
+                "validTo": null,
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            }
+        ],
+        "currencies": [
+            {
+                "code": "GBP",
+                "validFrom": "2017-08-16",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2017-08-16T00:00:00"
+    },
+    {
+        "market": "N2EX_DayAhead",
+        "marketDisplayName": "N2EX Day-ahead",
+        "areas": [
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2010-01-13",
+                "validTo": "2014-02-05",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2020-12-31",
+                "validTo": "2021-09-24",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2021-09-24",
+                "validTo": null,
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2021-09-24",
+                "validTo": "2021-10-01",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2021-10-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GB2",
+                "name": "Great Britain APX Area",
+                "validFrom": "2014-02-05",
+                "validTo": "2020-12-31",
+                "region": "UK",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2019-01-31",
+                "validTo": "2020-12-31",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GB1A",
+                "name": "GB1A-FR-AREA",
+                "validFrom": "2019-10-02",
+                "validTo": "2020-06-25",
+                "region": "UK",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2014-02-05",
+                "validTo": null
+            },
+            {
+                "code": "GBP",
+                "validFrom": "2010-01-13",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2010-01-13T00:00:00"
+    },
+    {
+        "market": "NP_IntradayAuction1",
+        "marketDisplayName": "Local intraday auction 1",
+        "areas": [
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2018-04-11",
+                "validTo": "2020-12-31",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-03-19",
+                "validTo": "2023-03-20",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-03-24",
+                "validTo": "2023-03-25",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-04-01",
+                "validTo": "2023-04-04",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-04-11",
+                "validTo": "2023-04-12",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-07-05",
+                "validTo": "2023-07-06",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-08-16",
+                "validTo": "2024-06-13",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2018-04-11",
+                "validTo": "2024-06-13"
+            }
+        ],
+        "validFrom": "2018-04-11T00:00:00"
+    },
+    {
+        "market": "NP_IntradayAuction2",
+        "marketDisplayName": "Local intraday auction 2",
+        "areas": [
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2018-04-11",
+                "validTo": "2020-12-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-03-18",
+                "validTo": "2023-03-19",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-03-23",
+                "validTo": "2023-03-24",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-03-31",
+                "validTo": "2023-04-03",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-04-10",
+                "validTo": "2023-04-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-07-04",
+                "validTo": "2023-07-05",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2023-08-15",
+                "validTo": "2024-06-13",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2018-04-11",
+                "validTo": "2024-06-13"
+            }
+        ],
+        "validFrom": "2018-04-11T00:00:00"
+    },
+    {
+        "market": "SemGb_IntradayAuction1",
+        "marketDisplayName": "SEM GB 1",
+        "areas": [
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2020-08-05",
+                "validTo": "2022-05-13",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2022-05-15",
+                "validTo": null,
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2020-08-05",
+                "validTo": null
+            },
+            {
+                "code": "GBP",
+                "validFrom": "2020-08-05",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2020-08-05T00:00:00"
+    },
+    {
+        "market": "SemGb_IntradayAuction2",
+        "marketDisplayName": "SEM GB 2",
+        "areas": [
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2020-08-05",
+                "validTo": "2021-06-27",
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "UK",
+                "name": "Great Britain",
+                "validFrom": "2021-06-29",
+                "validTo": null,
+                "region": "UK",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2020-08-05",
+                "validTo": null
+            },
+            {
+                "code": "GBP",
+                "validFrom": "2020-08-05",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2020-08-05T00:00:00"
+    },
+    {
+        "market": "SIDC_IntradayAuction1",
+        "marketDisplayName": "SIDC intraday auction 1",
+        "areas": [
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Baltic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "CWE",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-14",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-25",
+                "validTo": "2024-06-27",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-08-28",
+                "validTo": "2024-08-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-12-09",
+                "validTo": "2024-12-11",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-06-25",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2024-06-27",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-06-13",
+                "validTo": "2024-08-28",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-08-28",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-08-30",
+                "validTo": "2024-12-09",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-12-11",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2024-06-14",
+                "validTo": null
+            },
+            {
+                "code": "PLN",
+                "validFrom": "2024-08-15",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2024-06-13T00:00:00"
+    },
+    {
+        "market": "SIDC_IntradayAuction2",
+        "marketDisplayName": "SIDC intraday auction 2",
+        "areas": [
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2024-06-14",
+                "validTo": null
+            },
+            {
+                "code": "PLN",
+                "validFrom": "2024-08-15",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2024-06-14T00:00:00"
+    },
+    {
+        "market": "SIDC_IntradayAuction3",
+        "marketDisplayName": "SIDC intraday auction 3",
+        "areas": [
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK1",
+                "name": "DK1 Denmark",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "DK2",
+                "name": "DK2 Denmark",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "GER",
+                "name": "Germany",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Baltic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO1",
+                "name": "NO1 Norway",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO2",
+                "name": "NO2 Norway",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO3",
+                "name": "NO3 Norway",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO4",
+                "name": "NO4 Norway",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "NO5",
+                "name": "NO5 Norway",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "CWE",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE1",
+                "name": "SE1 Sweden",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE2",
+                "name": "SE2 Sweden",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE3",
+                "name": "SE3 Sweden",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-10-30",
+                "validTo": "2024-11-01",
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": false
+            },
+            {
+                "code": "SE4",
+                "name": "SE4 Sweden",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": true,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "CEPS",
+                "name": "Czech Republic Delivery Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "DK1A",
+                "name": "DK1 Denmark Virtual Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "ELES",
+                "name": "Slovenia Delivery Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "MAVIR",
+                "name": "Hungary Delivery Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO1A",
+                "name": "NO1 Norway Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-29",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "NO2A",
+                "name": "NO2 Norway Virtual Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": "Nordic",
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-06-14",
+                "validTo": "2024-10-30",
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia Delivery Area",
+                "validFrom": "2024-11-01",
+                "validTo": null,
+                "region": null,
+                "isTradingArea": false,
+                "isCapacityArea": true
+            }
+        ],
+        "currencies": [
+            {
+                "code": "EUR",
+                "validFrom": "2024-06-14",
+                "validTo": null
+            },
+            {
+                "code": "PLN",
+                "validFrom": "2024-08-15",
+                "validTo": null
+            }
+        ],
+        "validFrom": "2024-06-14T00:00:00"
+    }
+]

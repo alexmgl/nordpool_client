@@ -1,0 +1,3415 @@
+[
+    {
+        "market": "DayAhead",
+        "volumes": [
+            {
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:13Z"
+            },
+            {
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:13Z"
+            },
+            {
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:13Z"
+            },
+            {
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:13Z"
+            },
+            {
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:13Z"
+            },
+            {
+                "area": "TEL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:55:45Z"
+            },
+            {
+                "area": "50HZ",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "BG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "HR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:18Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:54Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "GREE",
+                "date": "2024-11-15",
+                "updatedAt": "2024-11-14T11:55:57Z"
+            },
+            {
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:07:32Z"
+            },
+            {
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:07:32Z"
+            },
+            {
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:07:32Z"
+            },
+            {
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:07:32Z"
+            },
+            {
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:07:32Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "BG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "area": "TEL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [
+            {
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T12:23:25Z"
+            }
+        ],
+        "flowBasedConstraints": [
+            {
+                "area": "CWE",
+                "date": "2024-10-23",
+                "updatedAt": "2024-10-22T07:46:46Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T08:13:31Z"
+            },
+            {
+                "area": "NORDIC",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T08:13:31Z"
+            },
+            {
+                "area": "CORE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T08:46:32Z"
+            }
+        ],
+        "capacities": [
+            {
+                "area": "DK1",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "DK1A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "FI",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO1A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO2A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-28T09:29:31Z"
+            },
+            {
+                "area": "BG",
+                "date": "2024-11-15",
+                "updatedAt": "2024-11-14T09:48:48Z"
+            },
+            {
+                "area": "GREE",
+                "date": "2024-11-15",
+                "updatedAt": "2024-11-14T09:48:48Z"
+            },
+            {
+                "area": "TEL",
+                "date": "2024-11-15",
+                "updatedAt": "2024-11-14T09:48:48Z"
+            },
+            {
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T09:04:33Z"
+            },
+            {
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T09:04:33Z"
+            },
+            {
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T09:04:33Z"
+            },
+            {
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T09:04:33Z"
+            },
+            {
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T09:04:33Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK1_CO",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK1_DE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK1_KS",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK1_SB",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK1_SK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK2_KO",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "DK2_SB",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "FI_EL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "FI_FS",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "NO2_ND",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "NO2_NK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "NO2_SK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE3_FS",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE3_KS",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE3_SWL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE4_BC",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE4_NB",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE4_SP",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            },
+            {
+                "area": "SE4_SWL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T09:03:47Z"
+            }
+        ],
+        "systemPrice": [
+            {
+                "currency": "DKK",
+                "area": "",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            }
+        ],
+        "prices": [
+            {
+                "currency": "DKK",
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:16Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:16Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:17Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:18Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "ERI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LBE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LBI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:26Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LRE",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:26Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LRI",
+                "date": "2025-01-29",
+                "updatedAt": "2025-01-28T12:25:27Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TEL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:55:45Z"
+            },
+            {
+                "currency": "RON",
+                "area": "TEL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:55:45Z"
+            },
+            {
+                "currency": "BGN",
+                "area": "BG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "HR",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "PL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:19Z"
+            },
+            {
+                "currency": "PLN",
+                "area": "PL",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:20Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "DKK",
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "NOK",
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "DK1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "DK2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "EE",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "FI",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LT",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "LV",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "NO1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "NO3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "NO4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "NO5",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:55Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "SE1",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "SE2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "SE3",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            },
+            {
+                "currency": "SEK",
+                "area": "SE4",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T11:56:56Z"
+            }
+        ]
+    },
+    {
+        "market": "GbHalfHour_DayAhead",
+        "volumes": [
+            {
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:32:02Z"
+            }
+        ],
+        "flows": [],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "GBP",
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:32:03Z"
+            }
+        ]
+    },
+    {
+        "market": "N2EX_DayAhead",
+        "volumes": [
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            },
+            {
+                "area": "UK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:39Z"
+            },
+            {
+                "area": "UK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:39Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [
+            {
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T08:21:21Z"
+            },
+            {
+                "area": "UK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T08:21:21Z"
+            }
+        ],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "UK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            },
+            {
+                "currency": "GBP",
+                "area": "NO2",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            },
+            {
+                "currency": "GBP",
+                "area": "UK",
+                "date": "2025-03-03",
+                "updatedAt": "2025-03-02T10:01:38Z"
+            }
+        ]
+    },
+    {
+        "market": "NP_IntradayAuction1",
+        "volumes": [
+            {
+                "area": "50HZ",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:24Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:24Z"
+            },
+            {
+                "area": "GER",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:24Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:24Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:24Z"
+            }
+        ],
+        "flows": [],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-12T20:01:25Z"
+            }
+        ]
+    },
+    {
+        "market": "NP_IntradayAuction2",
+        "volumes": [
+            {
+                "area": "50HZ",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:49Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:49Z"
+            },
+            {
+                "area": "GER",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:49Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:49Z"
+            }
+        ],
+        "flows": [],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2024-06-13",
+                "updatedAt": "2024-06-13T08:01:50Z"
+            }
+        ]
+    },
+    {
+        "market": "SemGb_IntradayAuction1",
+        "volumes": [
+            {
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T18:02:47Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "GB2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:40Z"
+            },
+            {
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:40Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T18:02:47Z"
+            },
+            {
+                "currency": "GBP",
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T18:02:47Z"
+            }
+        ]
+    },
+    {
+        "market": "SemGb_IntradayAuction2",
+        "volumes": [
+            {
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:05Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "GB2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:40Z"
+            },
+            {
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:40Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:06Z"
+            },
+            {
+                "currency": "GBP",
+                "area": "UK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:33:06Z"
+            }
+        ]
+    },
+    {
+        "market": "SIDC_IntradayAuction1",
+        "volumes": [
+            {
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [
+            {
+                "area": "NO1A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-29T08:56:49Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            }
+        ],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:24Z"
+            },
+            {
+                "currency": "PLN",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:25Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:59Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:59Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:59Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T14:16:58Z"
+            }
+        ]
+    },
+    {
+        "market": "SIDC_IntradayAuction2",
+        "volumes": [
+            {
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:47Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [
+            {
+                "area": "NO1A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-29T08:56:49Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            }
+        ],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:49Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:49Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:49Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:49Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:48Z"
+            },
+            {
+                "currency": "PLN",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-01T21:16:49Z"
+            }
+        ]
+    },
+    {
+        "market": "SIDC_IntradayAuction3",
+        "volumes": [
+            {
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            },
+            {
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:40Z"
+            }
+        ],
+        "flows": [
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            }
+        ],
+        "scheduledPhysicalFlows": [],
+        "flowBasedConstraints": [],
+        "capacities": [
+            {
+                "area": "NO1A",
+                "date": "2024-10-29",
+                "updatedAt": "2024-10-29T08:56:49Z"
+            },
+            {
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "CEPS",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK1A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ELES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ES",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "ITCP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "MAVIR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO2A",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            },
+            {
+                "area": "SK",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T08:56:35Z"
+            }
+        ],
+        "systemPrice": [],
+        "prices": [
+            {
+                "currency": "EUR",
+                "area": "50HZ",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AMP",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "AT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "BG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "DK2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "EE",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FI",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "FR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "GER",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "HR",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LT",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "LV",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "NO5",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE1",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE2",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE3",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "SE4",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:41Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TBW",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "EUR",
+                "area": "TTG",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            },
+            {
+                "currency": "PLN",
+                "area": "PL",
+                "date": "2025-03-02",
+                "updatedAt": "2025-03-02T09:16:42Z"
+            }
+        ]
+    }
+]
