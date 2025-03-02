@@ -2,16 +2,29 @@
 
 A Python client to fetch, process, and analyze Nordpool electricity market data by interacting with the Nordpool Data Portal API.
 
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![Python Version](https://img.shields.io/badge/python-%3E%3D3.6-informational)
+
 ## Overview
 
-The Nordpool Client provides an easy-to-use interface for retrieving various types of electricity market data, including:
+The Nordpool Client provides an easy-to-use interface for retrieving various types of Nordpool electricity market data, including:
 
 - **Auction Data**: Retrieve auction configurations and latest auction availability.
 - **Day-Ahead Prices**: Get day-ahead prices for multiple delivery areas.
 - **Price Histories & Aggregated Data**: Fetch historical price data and aggregated price statistics.
 - **Intraday Market Statistics**: Access hourly and daily intraday market statistics.
-- **EPAD Data**: Retrieve EPAD auction results and bid curves.
+- **EPAD Data**: Retrieve Elspot Price Auction Data auction results and bid curves.
 - **System Prices, Flows, Consumption, & Production**: Query system price data, physical flows, consumption, and production data.
+
+## Disclaimers
+
+- This project is not officially affiliated with or endorsed by Nordpool Group. It is an independent client implementation for accessing publicly available API endpoints.
+- The use of Nordpool data may be subject to Nordpool's terms of service and data usage policies. Users of this library are responsible for ensuring their usage complies with Nordpool's terms.
+- This client accesses a Nordpool Data API, and usage may be subject to rate limiting or access restrictions imposed by Nordpool.
+- Data retrieved through this client should be used in accordance with applicable laws and regulations regarding market data usage.
+- The library author is not responsible for any misuse of the data or violations of Nordpool's terms of service.
 
 ## Project Structure
 
@@ -29,11 +42,20 @@ nordpool-client/
 
 This project requires Python 3.7 or later.
 
-### Clone the Repository:
+## Installation
+
+Install directly from GitHub using pip:
 
 ```bash
-git clone <repository_url>
-cd nordpool-client
+pip install git+https://github.com/alexmgl/nordpool_client.git
+```
+
+Or clone the repository and install locally:
+
+```bash
+git clone https://github.com/alexmgl/nordpool_client.git
+cd nordpool_client
+pip install .
 ```
 
 ### Install Dependencies:
@@ -55,27 +77,27 @@ poetry install
 Below is an example of how to use the client:
 
 ```python
-from nordpool.client import NordpoolClient
-from datetime import date
+from nordpool import NordpoolClient
 
 # Instantiate the client
 client = NordpoolClient()
 
-# Retrieve day-ahead prices for Finland (FI) and Norway (NO1)
-prices = client.get_day_ahead_prices(query_date=date.today(), delivery_areas=["FI", "NO1"], currency="EUR")
+# Retrieve N2EX day-ahead prices for United Kingdom (UK) and Norway (NO2)
+prices = client.get_day_ahead_prices(query_date="2025-03-02",
+                                     market="N2EX_DayAhead",
+                                     delivery_areas=["NO2", "UK"],
+                                     currency="EUR")
+
 print(prices)
-
-# Retrieve and save auction data availability to a JSON file
-auction_config = client.get_auction_data_availability(save=True)
 ```
-
-When the `save` parameter is set to `True`, the response will be saved as a JSON file in the same directory as the script (e.g., `AuctionDataAvailability.json`).
 
 ## API Methods
 
 The `NordpoolClient` class provides several methods to access data endpoints. Some key methods include:
 
 ### Auction Data:
+
+This data is very important for guiding which combinations of markets, delivery areas and currencies can be requested from the api.
 
 - `get_auction_data_availability(save=False, **kwargs)`
 - `get_auction_data_availability_latest(save=False, **kwargs)`

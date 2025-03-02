@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nordpool_mcp.iml" filepath="$PROJECT_DIR$/.idea/nordpool_mcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nordpool_client/.idea/nordpool_client.iml" filepath="$PROJECT_DIR$/../nordpool_client/.idea/nordpool_client.iml" />
     </modules>
   </component>
 </project>

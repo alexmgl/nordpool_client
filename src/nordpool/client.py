@@ -5,10 +5,10 @@ import datetime
 import json
 import os
 
-class NordpoolClient:
 
+class NordpoolClient:
     """
-    A client for interacting with the Nordpool Data Portal API.
+    A client for interacting with the Nordpool Data API.
     Provides methods to retrieve various types of electricity market data.
     """
 
@@ -129,6 +129,7 @@ class NordpoolClient:
             "currency": currency
         }
         params.update(kwargs)
+
         return self._make_request(endpoint, params)
 
     def get_single_area_price_history(self, query_date: Union[str, date], delivery_area: str,
