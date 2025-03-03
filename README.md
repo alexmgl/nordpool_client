@@ -25,6 +25,7 @@ The Nordpool Client provides an easy-to-use interface for retrieving various typ
 - This client accesses a Nordpool Data API, and usage may be subject to rate limiting or access restrictions imposed by Nordpool.
 - Data retrieved through this client should be used in accordance with applicable laws and regulations regarding market data usage.
 - The library author is not responsible for any misuse of the data or violations of Nordpool's terms of service.
+- Users should review Nordpool's `robots.txt` file to understand which parts of their website are permitted for automated access.
 
 ## Project Structure
 
